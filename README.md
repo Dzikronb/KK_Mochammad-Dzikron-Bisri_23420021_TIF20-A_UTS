@@ -1,1 +1,5 @@
-# KK_Mochammad-Dzikron-Bisri_23420021_TIF20-A_UTS
+Nama     : Mochammad Dzikron Bisri 
+NIM      : 23420021 
+Prodi    : Teknik Informatika 
+Angkatan : 2020 
+Kelas    : A
